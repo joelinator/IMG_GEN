@@ -1,0 +1,4 @@
+fastAPI>=0.135
+uvicorn>=0.41
+dotenv
+fal_client
