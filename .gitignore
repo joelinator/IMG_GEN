@@ -1,3 +1,2 @@
 .git_token
-ui/.env
-backend/.env
+*.env
